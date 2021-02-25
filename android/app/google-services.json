@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930200539309",
+    "project_id": "thehub-256",
+    "storage_bucket": "thehub-256.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930200539309:android:91e7f03798854dad4d3624",
+        "android_client_info": {
+          "package_name": "com.thehub.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930200539309-atcqu6e17tnpao8h84ka084i2skgbb0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeaNHBSnkcbEea3CUJVvRT95ceWsSfsCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930200539309-atcqu6e17tnpao8h84ka084i2skgbb0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
